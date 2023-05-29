@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://shivamraj23.github.io/csb-v49s04/static/css/main.764c22e9.css",
+    "main.js": "https://shivamraj23.github.io/csb-v49s04/static/js/main.b920fb7b.js",
+    "index.html": "https://shivamraj23.github.io/csb-v49s04/index.html",
+    "main.764c22e9.css.map": "https://shivamraj23.github.io/csb-v49s04/static/css/main.764c22e9.css.map",
+    "main.b920fb7b.js.map": "https://shivamraj23.github.io/csb-v49s04/static/js/main.b920fb7b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.764c22e9.css",
+    "static/js/main.b920fb7b.js"
+  ]
+}
